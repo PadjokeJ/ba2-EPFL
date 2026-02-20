@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "a920acbcc65321bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc79df31631a49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aac3184dddcbc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS-108/00.1 Test unitaire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.1 Test unitaire"
+            }
+          },
+          {
+            "id": "1f86d79930b0b78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS-108/01.1 Immuabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.1 Immuabilité"
+            }
+          },
+          {
+            "id": "9d492ff571a83933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COM-102/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "712c89d1ec205cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS-173/01.2 Addition Substraction Multiplication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.2 Addition Substraction Multiplication"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3abc7496874d418b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6314e50f60a49ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd59d0eff4abf4ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52de5fd2fc04ec4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60efafe8e8e9fffd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "d38affd4ebba0341",
+    "type": "split",
+    "children": [
+      {
+        "id": "153034d4e5882790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77eac440bf966d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "054a29bdebd11e67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "66bf98fa462b026c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "687e460821666e2b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a63ba4fe42d4f7b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "712c89d1ec205cf7",
+  "lastOpenFiles": [
+    "4913",
+    "COM-102/Introduction.md",
+    "CS-108/01.1 Immuabilité.md",
+    "CS-108/00.1 Test unitaire.md",
+    "CS-173/01.2 Addition Substraction Multiplication.md",
+    "CS-173/Chapter 1.md",
+    "CS-173/Introduction.md",
+    "CS-173/01.1 Number systems.md",
+    "COM-102/1.1 Entropy.md",
+    "COM-102/Chapter 1.md",
+    "MATH-106/01.3 Equations différentielles linéaires du 1e ordre EDL1.md",
+    "GDE-101",
+    "MATH-106/01.2 Equation différentielles à variables séparées EDVS.md",
+    "MATH-106/01.1 Définitions et exemples.md",
+    "MATH-106/Chapitre 1.md",
+    "MATH-106/01.0 Méthodes de démonstration et raisonnement mathématique.md",
+    "MATH-106/01.3 Problème de Cauchy.md",
+    "ENV-101/Introduction.md",
+    "CS-108/Ajul.md",
+    "CS-108/Chapitre 1.md",
+    "MATH-106/Introduction.md",
+    "CS-108/Introduction.md",
+    "ENV-101",
+    "CS-108",
+    "COM-102",
+    "CS-173",
+    "Welcome.md",
+    "MATH-106"
+  ]
+}
