@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ba2-EPFL/CS-108/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introduction"
             }
           },
           {
@@ -211,8 +211,10 @@
   },
   "active": "63a83d13e49da08f",
   "lastOpenFiles": [
-    "ba2-EPFL/GDE-101/notes/04.1 GS -- Introduction.md",
+    "ba2-EPFL/CS-173/Introduction.md",
     "README.md",
+    "ba2-EPFL/IC-BA2.md",
+    "ba2-EPFL/GDE-101/notes/04.1 GS -- Introduction.md",
     "ba2-EPFL/COM-102/notes/03.2 Finite Fields and Vector Spaces.md",
     "ba2-EPFL/COM-102/Chapter 3.md",
     "ba2-EPFL/CS-108/Ajul.md",
@@ -235,8 +237,6 @@
     "ba2-EPFL/MATH-106/notes/04.10 Théorème des fonctions implicites.md",
     "ba2-EPFL/MATH-106/Chapitre 4.md",
     "ba2-EPFL/COM-102/Introduction.md",
-    "ba2-EPFL/MATH-106/notes/04.9 Extrema d'une fonction de plusieurs variables.md",
-    "ba2-EPFL/MATH-106/notes/03.2 Limites et continuités.md",
     "ba2-EPFL/images/Pasted image 20260501193536.png",
     "ba2-EPFL/images/Pasted image 20260429124831.png",
     "ba2-EPFL/images/SHS_emissions_globales_estimations.png",
