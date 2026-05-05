@@ -3,5 +3,6 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "custom-callouts"
-  ]
+  ],
+  "showRibbon": true
 }

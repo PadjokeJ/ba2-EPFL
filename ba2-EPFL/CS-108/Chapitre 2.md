@@ -1,6 +1,8 @@
-#poop 
-
+---
+tags:
+  - poop
+---
 Contenu :
-- [[01.1 Immuabilité]]
+- [[02.1 Immuabilité]]
 
-[[Chapitre 4]]
+[[ba2-EPFL/CS-108/Chapitre 4]]

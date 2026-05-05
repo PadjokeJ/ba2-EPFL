@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0fc79df31631a49d",
+        "id": "efd4d574bbf87ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "707f63590104944e",
+            "id": "63a83d13e49da08f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ba2-EPFL/images/SHS_emissions_globales_estimations.png"
+                "file": "ba2-EPFL/GDE-101/notes/04.1 GS -- Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "SHS_emissions_globales_estimations"
+              "icon": "lucide-file",
+              "title": "04.1 GS -- Introduction"
+            }
+          },
+          {
+            "id": "f16e4d50338f898c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ba2-EPFL/MATH-106/notes/04.10 Théorème des fonctions implicites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.10 Théorème des fonctions implicites"
             }
           }
         ]
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compact",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d38affd4ebba0341",
@@ -92,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "06.3 Integer computations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 06.3 Integer computations"
             }
           },
           {
@@ -154,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "ba2-EPFL/CS-108/notes/05.5 Listes en Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 05.5 Listes en Java"
             }
           },
           {
@@ -169,14 +186,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ba2-EPFL/images/SHS_emissions_globales_estimations.png"
+                "file": "ba2-EPFL/GDE-101/notes/01.1 GD -- Intro to Game Design.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for SHS_emissions_globales_estimations"
+              "title": "File properties for 01.1 GD -- Intro to Game Design"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,46 +210,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd59d0eff4abf4ff",
+  "active": "63a83d13e49da08f",
   "lastOpenFiles": [
-    "ba2-EPFL/ENV-101/03.5 Rétroactions, réduction des émissions.md",
-    "ba2-EPFL/images",
-    "ba2-EPFL/images/SHS_emissions_globales_estimations.png",
-    "ba2-EPFL/ENV-101/Semaine 3.md",
-    "ba2-EPFL/ENV-101/Semaine 2.md",
-    "ba2-EPFL/ENV-101/Introduction.md",
-    "ba2-EPFL/ENV-101/03.4 Cycle du carbone.md",
-    "ba2-EPFL/ENV-101/03.3 Climat -- 2.md",
-    "ba2-EPFL/ENV-101/03.2 Climat -- 1.md",
-    "ba2-EPFL/ENV-101/03.1 L'impact des humains sur la planète.md",
-    "ba2-EPFL/ENV-101/02.4 Cas d'étude -- IA.md",
-    "ba2-EPFL/ENV-101/02.5 Cas d'étude -- Low-tech.md",
-    "ba2-EPFL/ENV-101/02.3 Après l'innovation.md",
-    "ba2-EPFL/ENV-101/02.2 Exemple de l'énergie.md",
-    "ba2-EPFL/ENV-101/02.1 Eclairage par l'histoire des techniques.md",
-    "ba2-EPFL/MATH-106/Introduction.md",
-    "ba2-EPFL/MATH-106/Chapitre 1.md",
-    "ba2-EPFL/GDE-101/Chapitre 1.md",
-    "ba2-EPFL/GDE-101/Introduction.md",
-    "ba2-EPFL/CS-173/Introduction.md",
+    "ba2-EPFL/COM-102/notes/03.2 Finite Fields and Vector Spaces.md",
+    "ba2-EPFL/COM-102/Chapter 3.md",
+    "ba2-EPFL/CS-108/Ajul.md",
     "ba2-EPFL/CS-108/Introduction.md",
+    "ba2-EPFL/CS-108/Chapitre 4.md",
+    "ba2-EPFL/CS-108/Chapitre 2.md",
+    "ba2-EPFL/CS-108/Chapitre 5.md",
+    "ba2-EPFL/CS-108/Chapitre 12.md",
+    "ba2-EPFL/CS-108/notes/12.4 Hachage.md",
+    "ba2-EPFL/CS-108/notes/12.3 Ordre.md",
+    "ba2-EPFL/CS-108/notes/12.2 Egalité en Java.md",
+    "ba2-EPFL/CS-108/notes/12.1 Introduction à l'ordre et au hachage.md",
+    "ba2-EPFL/CS-108/Chapitre 11.md",
+    "ba2-EPFL/CS-173/notes/05.3 Memory.md",
+    "ba2-EPFL/CS-173/Chapter 5.md",
+    "ba2-EPFL/CS-173/notes/06.3 Integer computations.md",
+    "ba2-EPFL/CS-173/Chapter 6.md",
+    "ba2-EPFL/CS-173/notes/06.1 Introduction to computer architecture.md",
+    "ba2-EPFL/CS-173/notes/06.2 Registers.md",
+    "ba2-EPFL/MATH-106/notes/04.10 Théorème des fonctions implicites.md",
+    "ba2-EPFL/MATH-106/Chapitre 4.md",
     "ba2-EPFL/COM-102/Introduction.md",
-    "ba2-EPFL/COM-102/1.2 Entropy.md",
-    "ba2-EPFL/MATH-106/01.1 Définitions et exemples.md",
-    "Exemple.md",
-    "ba2-EPFL/MATH-106/01.0 Méthodes de démonstration et raisonnement mathématique.md",
-    "ba2-EPFL/CS-173/01.3 Fractional Binary.md",
-    "ba2-EPFL",
-    "ws/site-lib/search-index.json",
-    "ws/site-lib/metadata.json",
-    "ws/site-lib/scripts/webpage.js",
-    "ws/site-lib/scripts/graph-wasm.wasm",
-    "ws/site-lib/scripts/graph-wasm.js",
-    "ws/site-lib/scripts/graph-render-worker.js",
-    "ws/site-lib/styles/snippets.css",
-    "ws/site-lib/styles/obsidian.css",
-    "ws/site-lib/media/favicon.png",
-    "ws/site-lib/media/6155340132a851f6089e.svg",
-    "ws/site-lib/media/2308ab1944a6bfa5c5b8.svg"
+    "ba2-EPFL/MATH-106/notes/04.9 Extrema d'une fonction de plusieurs variables.md",
+    "ba2-EPFL/MATH-106/notes/03.2 Limites et continuités.md",
+    "ba2-EPFL/images/Pasted image 20260501193536.png",
+    "ba2-EPFL/CS-173/Introduction.md",
+    "ba2-EPFL/CS-173/Chapter 2.md",
+    "ba2-EPFL/images/Pasted image 20260429124831.png",
+    "ba2-EPFL/images/SHS_emissions_globales_estimations.png",
+    "ba2-EPFL/images/Pasted image 20260425160842.png",
+    "ba2-EPFL/GDE-101/x/guessing_game.lua~",
+    "ba2-EPFL/GDE-101/x/guessing_game.lua",
+    "ba2-EPFL/GDE-101/x",
+    "ba2-EPFL/images/Pasted image 20260413133545.png",
+    "ba2-EPFL/images/Pasted image 20260413142035.png",
+    "ba2-EPFL/images/Pasted image 20260330143101.png",
+    "ba2-EPFL/images/Pasted image 20260326134512.png",
+    "ba2-EPFL/images/Pasted image 20260323171338.png",
+    "ba2-EPFL/images/Pasted image 20260323165956.png",
+    "cs73n$",
+    "notes$",
+    "ba2-EPFL/MATH-106/notes",
+    "ba2-EPFL/GDE-101/notes",
+    "ba2-EPFL/COM-102/notes",
+    "ba2-EPFL/CS-108/notes",
+    "ba2-EPFL/CS-173/notes"
   ]
 }

@@ -14,3 +14,10 @@ tags:
 - [[03.3 Climat -- 2]]
 - [[03.4 Cycle du carbone]]
 - [[03.5 Rétroactions, réduction des émissions]]
+# Conférence :
+
+- [[03.6 Expérience de Prof Chappellaz]]
+- [[03.7 Cas d'étude -- L'intelligence artificielle]]
+- [[03.8 Climat et forêts]]
+
+[[Semaine 4]]

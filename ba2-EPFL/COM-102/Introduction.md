@@ -1,4 +1,7 @@
-#aicc
+---
+tags:
+  - aicc
+---
 
 >[!Quote]
 >"To have interesting computation you need data"
@@ -16,4 +19,6 @@ Cryptography (protecting information -- confidentiality)
 Channel coding (protecting information physically)
 # Chapters
 
-- [[ba2-EPFL/COM-102/Chapter 1]]
+- [[ba2-EPFL/COM-102/Chapter 1|Chapter 1 -- Entropy and Data Compression]]
+- [[ba2-EPFL/COM-102/Chapter 2|Chapter 2 -- Cryptography]]
+- [[ba2-EPFL/COM-102/Chapter 3|Chapter 3 -- Channel Coding]]
