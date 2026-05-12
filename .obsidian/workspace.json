@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba2-EPFL/CS-173/notes/06.6 Assembler directives.md",
+                "file": "ba2-EPFL/CS-108/notes/13.1 Listes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.6 Assembler directives"
+              "title": "13.1 Listes"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d38affd4ebba0341",
@@ -225,11 +226,21 @@
   },
   "active": "63a83d13e49da08f",
   "lastOpenFiles": [
-    "ba2-EPFL/CS-173/notes/06.5 Branches.md",
-    "ba2-EPFL/CS-173/notes/06.6 Assembler directives.md",
+    "ba2-EPFL/CS-108/Chapitre 13.md",
+    "ba2-EPFL/CS-108/notes/13.1 Listes.md",
+    "ba2-EPFL/CS-108/Introduction.md",
+    "ba2-EPFL/CS-108/Chapitre 12.md",
+    "ba2-EPFL/CS-173/notes/06.7 CPU Performance.md",
     "ba2-EPFL/CS-173/Chapter 6.md",
+    "ba2-EPFL/CS-173/notes/06.6 Assembler directives.md",
+    "ba2-EPFL/CS-173/notes/06.5 Branches.md",
     "ba2-EPFL/CS-173/notes/06.4 Memory.md",
     "ba2-EPFL/CS-173/notes/06.3 Integer computations.md",
+    "ba2-EPFL/CS-173/notes/06.2 Registers.md",
+    "ba2-EPFL/MATH-106/notes/01.1 Définitions et exemples.md",
+    "ba2-EPFL/MATH-106/Chapitre 1.md",
+    "ba2-EPFL/MATH-106/notes/01.2 Equation différentielles à variables séparées EDVS.md",
+    "ba2-EPFL/MATH-106/notes/01.3 Equations différentielles linéaires du 1e ordre EDL1.md",
     "ba2-EPFL/images/Pasted image 20260507143704.png",
     "ba2-EPFL/images/Pasted image 20260507143609.png",
     "ba2-EPFL/CS-173/notes/04.4 Tri-state drivers.md",
@@ -243,16 +254,6 @@
     "ba2-EPFL/COM-102/notes/02.3 Modular Arithmetic.md",
     "ba2-EPFL/COM-102/Chapter 2.md",
     "ba2-EPFL/COM-102/notes/03.1 Error Detection and Correction.md",
-    "ba2-EPFL/COM-102/Chapter 3.md",
-    "ba2-EPFL/COM-102/notes/03.2 Finite Fields and Vector Spaces.md",
-    "ba2-EPFL/CS-108/Introduction.md",
-    "ba2-EPFL/CS-173/Introduction.md",
-    "README.md",
-    "ba2-EPFL/IC-BA2.md",
-    "ba2-EPFL/GDE-101/notes/04.1 GS -- Introduction.md",
-    "ba2-EPFL/CS-108/Ajul.md",
-    "ba2-EPFL/CS-108/Chapitre 4.md",
-    "ba2-EPFL/CS-108/Chapitre 2.md",
     "ba2-EPFL/images/Pasted image 20260501193536.png",
     "ba2-EPFL/images/Pasted image 20260429124831.png",
     "ba2-EPFL/images/SHS_emissions_globales_estimations.png",
